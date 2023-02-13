@@ -11,7 +11,6 @@
 <br>
 
 ![](pngs/uppercase.png)
-
 ![](pngs/lowercase.png)
 
 #### **Note:** the custom keyboard has the same layout as the Armenian keyboard of KDWin.
